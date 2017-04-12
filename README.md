@@ -16,6 +16,9 @@ The `index.js` file is not overriden correctly by `stream.js`.
 ## Setup
 No special setup is needed. Just clone the repo, run `npm install` and then `react-native run-ios`
 
+On `postinstall`, the `react-native` entry will be automatically created in `package.json` via `rn-nodify` module.
+This entry mimics the `browser` field.
+
 > This issue was tested on MacOS Sierra 10.12.4, using XCode Simulator App v10.0.
 
 
