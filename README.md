@@ -16,7 +16,7 @@ The `index.js` file is not overriden correctly by `stream.js`.
 ## Setup
 No special setup is needed. Just clone the repo, run `npm install` and then `react-native run-ios`
 
-> This issue was tested on iOS Sierra 10.12.4, using XCode Simulator App v10.0.
+> This issue was tested on MacOS Sierra 10.12.4, using XCode Simulator App v10.0.
 
 
 ## Evidence
